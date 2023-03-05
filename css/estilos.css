@@ -2,13 +2,7 @@ body{
     background: rgb(200, 198, 202);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-<<<<<<< HEAD
-    color: aliceblue;
-    margin: 0;
-    padding: 0;
-=======
     color: rgb(2, 29, 53);
->>>>>>> cabecera
 }
 #container{
     width: 70%;
