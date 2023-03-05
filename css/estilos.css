@@ -4,3 +4,14 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: aliceblue;
 }
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #099;
+    margin: 0 auto;
+}
+#container h1{
+    font-size: 20px;
+    color: aqua;
+}
